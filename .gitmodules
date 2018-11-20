@@ -1,3 +1,6 @@
 [submodule "extern/libigl"]
 	path = extern/libigl
 	url = https://github.com/libigl/libigl.git
+[submodule "extern/lf-utils"]
+	path = extern/lf-utils
+	url = https://github.com/zero-impact/lf-utils.git

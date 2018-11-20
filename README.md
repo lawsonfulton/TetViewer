@@ -1,2 +1,19 @@
-# Graphics-Base
-A base project file that contains all of the submodules I typically use in a graphics project.
+# TetViewer
+A simple app for viewing `.msh` and `.mesh` volumetric mesh files.
+
+## Cloning
+```
+git clone --recursive https://github.com/zero-impact/TetViewer.git
+```
+
+## Building
+```
+mkdir build
+cd build
+cmake ..
+```
+
+## Running
+```
+./TetView filename.msh
+```
