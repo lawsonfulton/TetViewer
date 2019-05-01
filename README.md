@@ -11,6 +11,7 @@ git clone --recursive https://github.com/zero-impact/TetViewer.git
 mkdir build
 cd build
 cmake ..
+make
 ```
 
 ## Running
